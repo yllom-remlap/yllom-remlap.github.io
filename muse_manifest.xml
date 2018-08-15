@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="false" exportTarget="other" domain="mollypalmer.net" resolutions="1x" timestamp="1534343737803">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="false" exportTarget="other" domain="mollypalmer.net" resolutions="1x" timestamp="1534348099608">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="239767629" ref="index"/>
-    <file name="links.css" crc="4170693708" ref="links"/>
-    <file name="contact.css" crc="140827657" ref="contact"/>
+    <file name="contact.css" crc="3779554514" ref="contact"/>
+    <file name="index.css" crc="4122088222" ref="index"/>
+    <file name="links.css" crc="418160767" ref="links"/>
     <file name="portfolio.css" crc="3871410846" ref="portfolio"/>
   </folder>
   <folder name="assets">
@@ -21,21 +21,28 @@
     <file name="require.js" crc="7928878" ref="phone>index:phone>links:phone>contact:index:links:contact:portfolio"/>
   </folder>
   <folder name="images">
-    <file name="homepage.gif" crc="421227000" ref="phone>index:index">
-      <caption webpage="index" alt=""/>
+    <file name="homepage760x608.jpg" crc="4084145348" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u531-5.png" crc="3787225266" ref="phone>links"/>
-    <file name="links.gif" crc="3980674396" ref="phone>links:links">
+    <file name="links760x610.jpg" crc="3787726882" ref="phone>links">
       <caption webpage="links" alt=""/>
     </file>
     <file name="u570-5.png" crc="119669300" ref="phone>contact"/>
-    <file name="contact.gif" crc="523634511" ref="phone>contact:contact">
-      <caption webpage="contact" alt=""/>
+    <file name="contact760x609.jpg" crc="292817279" ref="phone>contact">
       <caption webpage="contact" alt=""/>
     </file>
+    <file name="homepage.jpg" crc="4144256034" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="u302-5.png" crc="58806414" ref="links"/>
+    <file name="links.jpg" crc="3826514102" ref="links">
+      <caption webpage="links" alt=""/>
+    </file>
     <file name="u386-5.png" crc="4094607352" ref="contact"/>
+    <file name="contact.jpg" crc="446651818" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
     <file name="jugs_lg.jpg" crc="4146539268" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
@@ -123,16 +130,16 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="4177415022" ref="phone>index"/>
-      <file name="contact.css" crc="3823205922" ref="phone>contact"/>
-      <file name="links.css" crc="519464601" ref="phone>links"/>
+      <file name="links.css" crc="4171779130" ref="phone>links"/>
+      <file name="contact.css" crc="468850005" ref="phone>contact"/>
+      <file name="index.css" crc="3987357021" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="76527031" seo="true" mt="1524736248070" redirect="true"/>
-    <file name="links.html" crc="525591492" seo="true" mt="1524741548096" redirect="true"/>
-    <file name="contact.html" crc="494171202" seo="true" mt="1524737030449" redirect="true"/>
+    <file name="index.html" crc="71100335" seo="true" mt="1534347874597" redirect="true"/>
+    <file name="links.html" crc="314273555" seo="true" mt="1534347903288" redirect="true"/>
+    <file name="contact.html" crc="3967676537" seo="true" mt="1534347857309" redirect="true"/>
   </folder>
-  <file name="index.html" crc="3824321352" seo="true" mt="1524736880132" redirect="true"/>
-  <file name="links.html" crc="3880325846" seo="true" mt="1534343647036" redirect="true"/>
-  <file name="contact.html" crc="3825410856" seo="true" mt="1526414735257" redirect="true"/>
-  <file name="portfolio.html" crc="28576327" seo="true" mt="1526494253902" redirect="true"/>
+  <file name="index.html" crc="4173699657" seo="true" mt="1534347874627" redirect="true"/>
+  <file name="links.html" crc="228504001" seo="true" mt="1534347897926" redirect="true"/>
+  <file name="contact.html" crc="503871131" seo="true" mt="1534347857281" redirect="true"/>
+  <file name="portfolio.html" crc="4034639397" seo="true" mt="1526494253902" redirect="true"/>
 </manifest>
