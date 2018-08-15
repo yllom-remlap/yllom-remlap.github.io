@@ -1,0 +1,138 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="false" exportTarget="other" domain="mollypalmer.net" resolutions="1x" timestamp="1534343737803">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="239767629" ref="index"/>
+    <file name="links.css" crc="4170693708" ref="links"/>
+    <file name="contact.css" crc="140827657" ref="contact"/>
+    <file name="portfolio.css" crc="3871410846" ref="portfolio"/>
+  </folder>
+  <folder name="assets">
+    <file name="mollypalmer-cv-april-2018.pdf" crc="4213474855" seo="true" mt="1524653413000"/>
+    <file name="mollypalmer-cv-april-2018v2.pdf" crc="188898449" seo="true" mt="1524741308000"/>
+    <file name="mp_cv_aug2018.pdf" crc="117277363" seo="true" mt="1534326565000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>links:phone>contact:index:links:contact:portfolio"/>
+    <file name="museutils.js" crc="340535759" ref="phone>index:phone>links:phone>contact:index:links:contact:portfolio"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>links:phone>contact:index:links:contact:portfolio"/>
+    <file name="museconfig.js" crc="310584261" ref="phone>index:phone>links:phone>contact:index:links:contact:portfolio"/>
+    <file name="jquery.watch.js" crc="51536988" ref="phone>index:phone>links:phone>contact:index:links:contact:portfolio"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="phone>index:phone>links:phone>contact:index:links:contact"/>
+    <file name="require.js" crc="7928878" ref="phone>index:phone>links:phone>contact:index:links:contact:portfolio"/>
+  </folder>
+  <folder name="images">
+    <file name="homepage.gif" crc="421227000" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u531-5.png" crc="3787225266" ref="phone>links"/>
+    <file name="links.gif" crc="3980674396" ref="phone>links:links">
+      <caption webpage="links" alt=""/>
+    </file>
+    <file name="u570-5.png" crc="119669300" ref="phone>contact"/>
+    <file name="contact.gif" crc="523634511" ref="phone>contact:contact">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="u302-5.png" crc="58806414" ref="links"/>
+    <file name="u386-5.png" crc="4094607352" ref="contact"/>
+    <file name="jugs_lg.jpg" crc="4146539268" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="doorway_angled_lg.jpg" crc="3879176812" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="opening_portrait_lg.jpg" crc="4096874956" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="curtaincu.jpg" crc="4174597254" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="handpile2_web.jpg" crc="70576064" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="dyk_dance_end_web.jpg" crc="4285686893" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="jug_web.jpg" crc="497227170" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="screena_angled_dancescene_flat_web.jpg" crc="4224755735" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="screenb_straighton_tv_infinity_web.jpg" crc="268550724" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="sidewall_web.jpg" crc="4227352669" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="opening_harmony_web.jpg" crc="3959939886" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="bendy_friend2_web.jpg" crc="3979798544" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="dance_scene_heartmove2_web.jpg" crc="353124311" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="friend_harmony2_web.jpg" crc="3961847585" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="dance_scene_headtilt_panup2_web.jpg" crc="272852192" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="heart_song_flashgroup6_web.jpg" crc="3795875989" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="heart_song_singlefigureflash1_web.jpg" crc="239985627" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="tvglowsred_tvinfinity_web.jpg" crc="319469918" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="apples_web.jpg" crc="406412946" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="whatliftsdo_mcu_web.jpg" crc="3867894961" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="4below2_web.jpg" crc="137672829" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="spacesinsideyou_alwayschanging_web.jpg" crc="3830368696" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="9floors_kaleidoscope2_web.jpg" crc="484804825" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="box_room_head_portal2_web.jpg" crc="3937651748" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="othermovements_eyes_web.jpg" crc="3799206862" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="legs_pinkish3_web.jpg" crc="4246806650" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="iater_installation_1_web.jpg" crc="58874674" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="embroidered_banner.jpg" crc="143145792" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="4177415022" ref="phone>index"/>
+      <file name="contact.css" crc="3823205922" ref="phone>contact"/>
+      <file name="links.css" crc="519464601" ref="phone>links"/>
+    </folder>
+    <file name="index.html" crc="76527031" seo="true" mt="1524736248070" redirect="true"/>
+    <file name="links.html" crc="525591492" seo="true" mt="1524741548096" redirect="true"/>
+    <file name="contact.html" crc="494171202" seo="true" mt="1524737030449" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="3824321352" seo="true" mt="1524736880132" redirect="true"/>
+  <file name="links.html" crc="3880325846" seo="true" mt="1534343647036" redirect="true"/>
+  <file name="contact.html" crc="3825410856" seo="true" mt="1526414735257" redirect="true"/>
+  <file name="portfolio.html" crc="28576327" seo="true" mt="1526494253902" redirect="true"/>
+</manifest>
